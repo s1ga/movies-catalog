@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "airbnb-base"
+  ],
+  "rules": {
+    "object-curly-newline": "off"
+  }
+}
