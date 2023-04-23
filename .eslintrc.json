@@ -4,6 +4,11 @@
     "airbnb-base"
   ],
   "rules": {
-    "object-curly-newline": "off"
-  }
+    "object-curly-newline": "off",
+    "lines-between-class-members": "off",
+    "import/extensions": "off"
+  },
+  "ignorePatterns": [
+    ".env*.local"
+  ]
 }
